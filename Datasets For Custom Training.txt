@@ -1,0 +1,2 @@
+Dataset 1 : https://www.kaggle.com/vaibhao/handwritten-characters
+Dataset 2 : https://www.kaggle.com/landlord/handwriting-recognition
